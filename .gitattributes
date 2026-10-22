@@ -1,0 +1,8 @@
+# Normalize line endings
+*.bat text eol=crlf
+*.htm linguist-vendored
+*.woff binary
+*.yml linguist-detectable=false
+src/**/*.ts linguist-detectable
+src/**/*.tsx linguist-detectable
+*.jpg binary
